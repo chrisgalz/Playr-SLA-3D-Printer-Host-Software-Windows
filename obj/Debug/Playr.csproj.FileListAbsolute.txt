@@ -1,0 +1,14 @@
+c:\users\nexgen\documents\visual studio 2015\Projects\Playr\Playr\bin\Debug\Playr.exe.config
+c:\users\nexgen\documents\visual studio 2015\Projects\Playr\Playr\bin\Debug\Playr.exe
+c:\users\nexgen\documents\visual studio 2015\Projects\Playr\Playr\bin\Debug\Playr.pdb
+c:\users\nexgen\documents\visual studio 2015\Projects\Playr\Playr\obj\Debug\Playr.csprojResolveAssemblyReference.cache
+c:\users\nexgen\documents\visual studio 2015\Projects\Playr\Playr\obj\Debug\Playr.Form1.resources
+c:\users\nexgen\documents\visual studio 2015\Projects\Playr\Playr\obj\Debug\Playr.Properties.Resources.resources
+c:\users\nexgen\documents\visual studio 2015\Projects\Playr\Playr\obj\Debug\Playr.csproj.GenerateResource.Cache
+c:\users\nexgen\documents\visual studio 2015\Projects\Playr\Playr\obj\Debug\Playr.exe
+c:\users\nexgen\documents\visual studio 2015\Projects\Playr\Playr\obj\Debug\Playr.pdb
+C:\Users\NexGen\Documents\Visual Studio 2015\Projects\Playr\Playr\bin\Debug\Playr.exe.manifest
+C:\Users\NexGen\Documents\Visual Studio 2015\Projects\Playr\Playr\bin\Debug\Playr.application
+C:\Users\NexGen\Documents\Visual Studio 2015\Projects\Playr\Playr\obj\Debug\Playr.exe.manifest
+C:\Users\NexGen\Documents\Visual Studio 2015\Projects\Playr\Playr\obj\Debug\Playr.application
+C:\Users\NexGen\Documents\Visual Studio 2015\Projects\Playr\Playr\obj\Debug\Playr.Form2.resources
